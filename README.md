@@ -5,7 +5,7 @@ This project replicates the Amazon front page using HTML and CSS.
 
 ## Overview
 
-The Amazon Front Page Clone project aims to mimic the layout and design of the Amazon.com landing page. It includes essential elements such as navigation, search functionality, category sections, and a footer with various links.
+Replicated the user interface and basic functionalities of the Amazon e-commerce platform using HTML and CSS, focusing on creating a visually appealing and responsive website. 
 
 ## Features
 
